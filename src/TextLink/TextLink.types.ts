@@ -1,4 +1,3 @@
-
-  export interface TextLinkProps {
-    foo: string;
-  }
+export interface TextLinkProps {
+  foo: string;
+}

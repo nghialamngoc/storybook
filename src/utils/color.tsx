@@ -1,0 +1,23 @@
+export default {
+  green: '#03824F',
+  darkGreen: '#183028',
+  grey: '#dbdfe1',
+  grey2: '#636566',
+  grey3: '#8B8E8F',
+  grey4: '#B3B6B8',
+  fwdMinGrey: '#757575',
+  fwdGrey50: '#EDEFF0',
+  secondaryColorFwdGrey: '#DBDFE1',
+  supportingColorFwdGrey: '#636566',
+  orange: '#fae4d3',
+  fwdWhite: '#FFFFFF',
+  fwdWhite20: '#FFFFFF20',
+  orangeLighter: '#FEF9F4',
+  fwdOrange: '#e87722',
+  fwdOrangeLight: '#FEF9F4',
+  fwdBlue: '#0097A9',
+  alertRed: '#b30909',
+  alertGreenLight: '#f2f9f6',
+  alertGreen: '#03824f',
+  white1: '#c4c4c4'
+};

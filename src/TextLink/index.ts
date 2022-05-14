@@ -1,3 +1,2 @@
-
-  export { default } from './TextLink';
-  export { TextLinkProps } from './TextLink.types';
+export { default } from './TextLink';
+export { TextLinkProps } from './TextLink.types';
