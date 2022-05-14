@@ -3,7 +3,7 @@
   "author": "Tanjiro",
   "description": "Centralized react components for project's NghiaLam",
   "module": "dist/mylib.esm.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "license": "MIT",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
